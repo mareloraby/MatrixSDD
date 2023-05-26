@@ -23,6 +23,7 @@ public class A2Tests {
      * @param input a string to parse
      * @return the value of the attribute "check" of the variable "s"
      */
+	
     public static int sCheckValue(String input) {
         A2Lexer lexer = new A2Lexer(CharStreams.fromString(input));
         A2Parser parser = new A2Parser(new CommonTokenStream(lexer));
