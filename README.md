@@ -10,10 +10,8 @@ A string over {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, #} represents a matrix of digits if
 ## File Tree
 
 * [csen1003/](/csen1003)
-  * [main/a2/](/csen1003/main/a2)
-      * [A2Runner.java](/csen1003/main/a2/A2Runner.java)
-  * [tests/a2/](/csen1003/tests/a2)
-      * [A2Tests.java](/csen1003/tests/a2/A2Tests.java)
+  * [main/a2/A2Runner.java](/csen1003/main/a2/A2Runner.java)
+  * [tests/a2/A2Tests.java](/csen1003/tests/a2/A2Tests.java)
 * [grammars/](/grammars)
   * [A2.g4](/grammars/A2.g4)
 * [README.md](/README.md)
