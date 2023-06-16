@@ -7,13 +7,13 @@ The start variable has an attribute `check` whose value is 1 if the generated st
 A string over {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, #} represents a matrix of digits if it is of the form r1#r2#...#rn, where ri ∈ {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}+ and |ri| = |rj|, for every 1<i, j<n.
 
 
-File Tree:
+## File Tree
 
-* [csen1003/](./MatrixSDD/csen1003)
-  * [main/a2/](./MatrixSDD/csen1003/main/a2)
-      * [A2Runner.java](./MatrixSDD/csen1003/main/a2/A2Runner.java)
-  * [tests/a2/](./MatrixSDD/csen1003/tests/a2)
-      * [A2Tests.java](./MatrixSDD/csen1003/tests/a2/A2Tests.java)
-* [grammars/](./MatrixSDD/grammars)
-  * [A2.g4](./MatrixSDD/grammars/A2.g4)
-* [README.md](./MatrixSDD/README.md)
+* [csen1003/](/csen1003)
+  * [main/a2/](/csen1003/main/a2)
+      * [A2Runner.java](/csen1003/main/a2/A2Runner.java)
+  * [tests/a2/](/csen1003/tests/a2)
+      * [A2Tests.java](/csen1003/tests/a2/A2Tests.java)
+* [grammars/](/grammars)
+  * [A2.g4](/grammars/A2.g4)
+* [README.md](/README.md)
