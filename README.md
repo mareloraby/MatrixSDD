@@ -6,7 +6,6 @@ The start variable has an attribute `check` whose value is 1 if the generated st
 
 A string over {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, #} represents a matrix of digits if it is of the form r1#r2#...#rn, where ri ∈ {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}+ and |ri| = |rj|, for every 1<i, j<n.
 
-
 ## File Tree
 
 * [csen1003/](/csen1003)
