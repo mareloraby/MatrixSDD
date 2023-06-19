@@ -48,4 +48,4 @@ would be represented as `24680#13579#13579#13579` and `s.check` should return 0.
 would be represented as `222#246#13#146` and `s.check` should return 0 because the rows' lengths are not equal.
 
 ## Dependencies
-This project uses ANTLR4 (version 4.9.3) to generate the parser and lexer for the grammar.
+This project uses ANTLR4 (version 4.9.3) to generate the parser and lexer for the grammar. Junit V5.9 is used for testing.
